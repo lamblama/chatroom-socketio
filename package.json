@@ -1,0 +1,15 @@
+{
+  "name": "web-chatroom",
+  "version": "1.0.0",
+  "dependencies": {
+    "china-time": "^0.12.3",
+    "express": "^4.22.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.16.0",
+    "path": "^0.12.7",
+    "puppeteer": "^24.35.0",
+    "socket.io": "^4.8.3"
+  }
+}
