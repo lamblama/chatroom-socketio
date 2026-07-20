@@ -1,2 +1,1 @@
-# chatroom-socketio
-基于node.js socket vscode mysql的聊天室，可以公聊、私聊、截图、传输文件、获取历史聊天记录的聊天室
+本项目基于Node.js+Socket.io实时通信技术，搭配Express后端框架、MySQL数据库、前端HTML/CSS/JS+Bootstrap搭建网页端网络聊天系统，实现用户注册登录、群聊、一对一私聊、网页截图、文件传输全套聊天功能。
